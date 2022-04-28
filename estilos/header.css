@@ -50,3 +50,27 @@
     background-color: var(--color-secundary);
     border-radius: 15px;
 }
+
+
+@media (max-width: 768px){
+
+    .head{
+        width: 95%;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    }   
+
+
+    .head__logo{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       
+    }
+
+    .head__menu{
+        display: none;
+     }
+
+}

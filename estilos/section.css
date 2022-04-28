@@ -17,6 +17,7 @@
     justify-content: center;
     text-align: center;
     padding: 0px 25px;
+    color: var(--color-secundary);
 }
 
 .banner__img{
@@ -29,5 +30,32 @@
 .banner__img img{
     width: 80%;
     height: auto;
+}
+
+
+
+@media (max-width: 768px){
+
+    .banner{
+        width: 95%;
+        height: 280px;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    }   
+
+
+    .banner__mensaje{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0px 0px;
+       
+    }
+
+    .banner__img{
+        display: none;
+     }
+
 }
 
