@@ -12,7 +12,7 @@
 
   <header class="head">
       <div class="head__logo"><img src="asset/img/avatar.png" alt="" srcset=""></div>
-      <div class="head__menu"><a href="#">HOME</a></div>
+      <div class="head__menu"><a href="#">INICIO</a></div>
   </header>
 
 
@@ -25,10 +25,15 @@
           
           
         </div>
-        <div class="banner__img"><img src="asset/img/banner2.png" alt=""></div>
+        <div class="banner__img"><img src="asset/img/vuro.png" alt=""></div>
 
 
   </section>
+
+  <footer>
+
+
+  </footer>
     
 </body>
 </html>

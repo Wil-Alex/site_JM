@@ -44,8 +44,9 @@
 
 
 .banner__img img{
-    width: 80%;
+    width: 70%;
     height: auto;
+    filter: drop-shadow(-2px 2px 22px rgba(0,0,0,0.75));
 }
 
 
