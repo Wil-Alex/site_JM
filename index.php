@@ -25,7 +25,7 @@
           
           
         </div>
-        <div class="banner__img"><img src="asset/img/vuro.png" alt=""></div>
+        <div class="banner__img"><img src="asset/img/vuro_img.png" alt=""></div>
 
 
   </section>
