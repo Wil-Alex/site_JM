@@ -1,0 +1,33 @@
+@import url(estilos/customize.css);
+
+
+.banner{
+    width: 70%;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    margin: auto;
+}
+
+
+.banner__mensaje{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0px 25px;
+}
+
+.banner__img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.banner__img img{
+    width: 80%;
+    height: auto;
+}
+

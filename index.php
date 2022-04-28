@@ -14,6 +14,15 @@
       <div class="head__logo"><img src="asset/img/avatar.png" alt="" srcset=""></div>
       <div class="head__menu"><a href="#">HOME</a></div>
   </header>
+
+
+  <section class="banner">
+        <div class="banner__mensaje">
+          <h2>Hello …! 👋 me llamo Jesús pero el mundo me conoce como @vurokrazia en este espacio te explicare las cosa complejas de la programación de manera fácil</h2>
+        </div>
+        <div class="banner__img"><img src="asset/img/banner2.png" alt=""></div>
+
+  </section>
     
 </body>
 </html>
