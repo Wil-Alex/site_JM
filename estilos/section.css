@@ -17,7 +17,7 @@
     justify-content: center;
     text-align: center;
     padding: 0px 25px;
-    color: var(--color-secundary);
+    color: var(--color-primary);
 }
 
 
@@ -58,6 +58,7 @@
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr;
+        
     }   
 
 
@@ -66,8 +67,9 @@
         align-items: center;
         justify-content: center;
         padding: 0px 0px;
-       
     }
+
+
 
     .banner__img{
         display: none;
@@ -77,19 +79,19 @@
 
 }
 
-
-@media (max-width: 1280px){
+/* 
+@media (max-width: 1232px){
 
 
     .banner__mensaje{
-        font-size:small;
+        font-size: 16px;
     }
      .banner__mensaje a{
-        font-size:12px;
+        font-size: 16px;
     }
     
 
-}
-
+} */
+ 
 
 
