@@ -8,6 +8,7 @@
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
     margin: auto;
+    margin-top: 90px;
 }
 
 
@@ -48,6 +49,20 @@
     height: auto;
     filter: drop-shadow(-2px 2px 22px rgba(0,0,0,0.75));
 }
+
+
+
+/* segundo elemento section de index*/
+
+.widgets{
+    width: 70%;
+    min-height: 900px;
+    margin: auto;
+   
+}
+
+
+
 
 
 

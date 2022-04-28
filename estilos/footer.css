@@ -1,0 +1,20 @@
+@import url(estilos/customize.css);
+
+
+
+.footer{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    background-color: var(--color-secundary);
+    color: var(--bg-color);
+    border-radius: 20px;
+    box-shadow: -2px 2px 22px 0px rgba(0,0,0,0.75);
+    padding: 25px 0px;
+    margin-bottom: 30px;
+}
+
+.footer img{
+    width: 35px;
+    height: auto;
+}
