@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,9 +18,15 @@
 
   <section class="banner">
         <div class="banner__mensaje">
-          <h2>Hello …! 👋 me llamo Jesús pero el mundo me conoce como @vurokrazia en este espacio te explicare las cosa complejas de la programación de manera fácil</h2>
+          <h2>Hello …! 👋 me llamo Jesús pero el mundo me conoce como @vurokrazia en este espacio te explicare las cosa complejas de la programación de manera fácil
+            <br><br>
+            <a href="http://">¿Qué quieres aprender hoy?</a>
+          </h2>
+          
+          
         </div>
         <div class="banner__img"><img src="asset/img/banner2.png" alt=""></div>
+
 
   </section>
     
