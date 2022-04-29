@@ -1,6 +1,18 @@
+/*
+Theme Name: Personalizado Vuro
+Theme URI: http://vurokrazia.ml
+Author: @alex_doblevv
+Author URI: 
+Description: Tema personalizado sitio web de vurokrazia 
+Version: 0.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: tecnologia, vurokrazia, desarrollo, web, programacion
+Text Domain: alex
+*/
+
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
-
-
 
 @import url(estilos/customize.css);
 @import url(estilos/header.css);
