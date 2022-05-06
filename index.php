@@ -7,7 +7,7 @@
 
   <section class="banner">
         <div class="banner__mensaje">
-              <h2>Hello …! 👋 me llamo Jesús pero el mundo me conoce como @vurokrazia en este espacio te explicare las cosa complejas de la programación de manera fácil
+              <h2>Hello …! 👋 me llamo Jesús pero el mundo me conoce como @vurokrazia en este espacio te explicare las cosa complejas de la programación de manera fácil 👍
                 <br><br>
                 <a href="http://">¿Qué quieres aprender hoy?</a>
               </h2> 
