@@ -1,0 +1,15 @@
+footer{
+    background-color: var(--color-secondary);
+    width: var(--width-max);
+    height: 200px;
+    color: var(--bg-second);  
+    text-align: center;
+    padding: 100px 0px 250px 0px;
+}
+
+
+footer h1 img{
+width: 35px;
+height: auto;
+}
+

@@ -1,0 +1,25 @@
+/*
+
+Theme Name: vuro
+Theme URI:
+Author: Wilmer Alexander Salazar @alex_doblevv
+Author URI: 
+Description: Plantilla para sitio personal de Jesús Martínez
+Version: 0.0.1
+Licence: GNU General Public licence or later
+Tags: Desarrollo, sitio, web, pagina, personal
+
+*/
+
+
+
+@import url(style/customize.css);
+@import url(style/header.css);
+@import url(style/banner.css);
+@import url(style/novedades.css);
+@import url(style/footer.css);
+@import url(style/categorias.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+
