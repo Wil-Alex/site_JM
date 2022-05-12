@@ -1,0 +1,22 @@
+.comment-outer{
+    margin: auto;
+    display: block;
+    list-style: none;
+    width: 50%;
+    margin-top: 80px;
+    margin-bottom: 200px;
+    color: var(--color-primary);
+}
+.children{
+    margin: 10% 5% 10% 25% ;
+    list-style: none;
+}
+
+.submit{
+    background-color: var(--color-primary);
+    padding: 15px 40px;
+    color: var(--bg-color);
+    border: 0px;
+    float: right;
+    margin-top: 25px;
+}

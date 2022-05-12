@@ -17,11 +17,13 @@
         </div>
     </section>
 
+    <?php if ( is_active_sidebar( 'categorias' ) ) { ?> 
+
     <aside class="novedades">
         <div class="novedades__widget" id="nuevo_tema">
             <?php dynamic_sidebar('categorias'); ?>
         </div>
     </aside>
-
+   <?php } ?> 
 
     <?php get_footer();?>

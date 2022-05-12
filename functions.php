@@ -43,12 +43,12 @@
 
 
 
-// Deshabilitar el manejo de widgets desde el editor de bloques de Gutenberg
+/* // Deshabilitar el manejo de widgets desde el editor de bloques de Gutenberg
 add_filter( 'gutenberg_use_widgets_block_editor', '__return_false', 100 );
 
 // Deshabilitar el editor de bloques para el manejo de widgets
 add_filter( 'use_widgets_block_editor', '__return_false' );
-
+ */
 
 
 ?>
