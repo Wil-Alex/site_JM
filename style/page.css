@@ -1,0 +1,23 @@
+.primary{
+    margin: auto;
+    width: var(--width-basic);
+}
+
+.titulo__page{
+    width: var(--width-basic);
+    margin: auto;
+    text-align: center;
+    padding: 100px 0px 25px 0px;
+    font-size:xx-large;
+    font-weight: bold;
+    color: var(--color-primary);
+}
+
+
+
+.content__page{
+    padding: 100px 0px;
+    text-align: left;
+    font-size:medium;
+}
+

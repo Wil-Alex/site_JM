@@ -2,13 +2,15 @@
     margin: auto;
     display: block;
     list-style: none;
-    width: 50%;
+    width: var(--width-basic);
     margin-top: 80px;
     margin-bottom: 200px;
     color: var(--color-primary);
 }
+
+
 .children{
-    margin: 10% 5% 10% 25% ;
+    margin: 10% 5% 10% 5% ;
     list-style: none;
 }
 
@@ -20,3 +22,40 @@
     float: right;
     margin-top: 25px;
 }
+
+
+.reply{
+    width: auto;
+    margin: 20px 0px;
+    text-align: center; 
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.reply a{
+    background-color: var(--color-primary);
+    padding: 10px 25px;
+    width: auto;
+    text-align: center;
+    color: var(--bg-second);
+    text-decoration: none;
+
+}
+
+
+#comment, #author, #email, #url{
+    border: 2px solid var(--color-primary);
+    background-color: var(--bg-color);
+}
+
+
+.comment-form label{
+   display: flex;
+ 
+} 
+
+
+.comment-form p{
+    padding: 10px 0px;  
+} 

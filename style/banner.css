@@ -30,7 +30,6 @@ section{
 
 
 .banner__img img{
-    /* width: 480px; */
     width:400px;
     height: auto;
 }
@@ -49,3 +48,82 @@ section{
     background-color: var(--color-secondary);
 }
 
+
+
+@media (max-width:1200px){
+    
+    
+    .banner{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: var(--width-basic);
+        height: 400px;
+        margin: 0px auto;   
+       
+    }
+
+    .banner__img img{
+        /* width: 480px; */
+        width:300px;
+        height: auto;
+    }
+
+
+    .banner__mensaje{
+        font-size:x-large;
+        padding: 0px 0px;
+      
+    }
+
+
+   .banner__mensaje a{
+    font-size:small;
+}
+    
+}
+
+
+
+
+@media (max-width:992px){
+    
+    
+
+    .banner{
+        display: grid;
+        grid-template-columns: 1fr;
+        width: var(--width-basic);
+        height: 400px;
+       
+    }
+
+
+    .banner__img{
+        display: none;
+    }
+    
+}
+
+
+
+
+@media (max-width:440px){
+    
+    .banner{
+        width: var(--width-max);
+        height: 400px;
+       
+    }
+
+    .banner__mensaje{
+    font-size:large;
+    padding: 0px 5px;    
+    }
+
+    
+
+   .banner__mensaje a{
+    font-size:small;
+    }
+    
+}

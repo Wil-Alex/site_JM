@@ -4,12 +4,17 @@ footer{
     height: 200px;
     color: var(--bg-second);  
     text-align: center;
-    padding: 100px 0px 250px 0px;
+    padding: 100px 0px 300px 0px;
 }
 
 
 footer h1 img{
 width: 35px;
 height: auto;
+}
+
+
+.widget_social ul li{
+    margin: 10px 10px;
 }
 

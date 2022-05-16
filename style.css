@@ -20,6 +20,12 @@ Tags: Desarrollo, sitio, web, pagina, personal
 @import url(style/footer.css);
 @import url(style/categorias.css);
 @import url(style/comentarios.css);
+@import url(style/page.css);
+@import url(style/single.css);
+@import url(style/404.css);
+@import url(style/search.css);
+
+
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
 

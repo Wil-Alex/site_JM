@@ -1,20 +1,24 @@
 <?php get_header();?>
 
-<h1>vengo de resultados</h1>
 
 
-
+      <div class="resultados">
+           <h1>Resultados de su busqueda</h1>
             <?php while(have_posts() ): the_post(); ?>
             
-
             <?php endwhile; ?>
-
-            <a href="<?php the_permalink();?>">
+                  <?php get_search_form();?>
+                    <div class="enlace_busqueda">
+                          <a href="<?php the_permalink();?>">
+                        </div>
              
                   <?php the_title(); ?>
                  
                  </a>
 
-                 <?php get_search_form();?>
+                
+            
+            
+      </div>
 
 <?php get_footer();?>

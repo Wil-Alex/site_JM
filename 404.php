@@ -1,16 +1,15 @@
+
+
 <?php get_header();?>
 
-<h1>vengo de encontrada</h1>
 
 
-<?php get_search_form();?>
-
-
-
-
-
-
-
+<div class="e404">
+    
+        <h3>No hemos conseguido la información que busca</h3>
+        <p>Puede hacerlo manualmente</p>
+        <?php get_search_form();?>
+</div>
 
 
 <?php get_footer();?>

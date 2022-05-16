@@ -1,21 +1,23 @@
 <?php get_header();?>
 
-<h2>de single</h2>
+<!-- <h2>de single</h2> -->
 
 
-<div class="primary" id="primary">
+<div class="post">
 
-    <?php while(have_posts() ): the_post(); ?>
+        <?php the_title(); ?>
 
-             <a href="<?php the_permalink();?>"><?php the_title(); ?></a>
+    <div class="post__content">
+            <?php while(have_posts() ): the_post(); ?>
 
-           
-            <?php the_content(); ?>
 
-           
+                
+                    <?php the_content(); ?>
 
-    <?php endwhile; ?>
+                
 
+            <?php endwhile; ?>
+    </div>
 </div>
 
 

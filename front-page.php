@@ -24,6 +24,15 @@
             <?php dynamic_sidebar('categorias'); ?>
         </div>
     </aside>
+
+   <?php }else{ ?>
+    
+    <aside class="novedades">
+        <div class="novedades__widget" id="nuevo_tema">
+            
+        </div>
+    </aside>
+
    <?php } ?> 
 
     <?php get_footer();?>

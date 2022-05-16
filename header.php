@@ -12,7 +12,7 @@
     <meta name="description" content="<?php bloginfo('description'); ?>">
 </head>
 
-<body>
+<body <?php body_class(); ?> >
     <header>
         <div class="head">
             <div class="head__logo">

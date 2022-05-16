@@ -1,0 +1,18 @@
+.post{
+    margin: auto;
+    width: var(--width-basic);
+    padding: 100px 0px 25px 0px;  
+    font-size:xx-large;
+    font-weight: bold;
+    text-align: center;
+    color: var(--color-primary);
+}
+
+
+.post__content{
+    padding: 100px 0px;
+    text-align: left;
+    font-size:medium;
+    color: black;
+
+}

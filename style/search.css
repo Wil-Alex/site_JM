@@ -1,0 +1,16 @@
+.resultados{
+    width: var(--width-basic);
+    margin: 50px auto;
+    min-height: 700px;
+
+}
+
+.resultados h1{
+   /*  padding: 35px 0px; */
+    margin: 30px 0px;
+}
+
+.enlace_busqueda{
+    /*  padding: 35px 0px; */
+     margin: 30px 0px;
+ }

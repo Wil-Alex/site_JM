@@ -1,0 +1,31 @@
+.e404{
+    margin: auto;
+    width: var(--width-basic);
+    min-height: 500px;
+    text-align: center;
+    margin-top: 50px; 
+   
+}
+
+.e404 h3{
+     padding: 60px 0px;
+}
+
+.e404 p{
+    padding: 20px 0px;
+}
+
+
+#searchsubmit{
+    background-color: var(--color-primary);
+    padding: 10px 20px;
+    border: 0px solid;
+    color: var(--bg-color);
+}
+
+#s{
+    background-color: var(--bg-color);
+    margin: 0px 5px;
+    border: solid 2px var(--color-primary);
+    padding: 10px 0px;
+}
